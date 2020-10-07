@@ -1,7 +1,5 @@
 # IERG 5350 Assignment 1: Tabular Reinforcement Learning
 
-
-
 **Due: 11:59 pm, September 30, 2020**
 
 
@@ -45,13 +43,15 @@ Make sure your code can be run completely bug-free. Our staff will run the codes
 
 ## Step 3: Submit your work
 
+**(Update: Please do not push your solution to public!)**
+
 Following the procedure to submit your work:
 
 1. Before submitting, remember to fill your name and student ID into the table at the top of the file.
 2. Run your codes in sequential manner, that is, run it by `Restart & Run All`. Remember to keep everything intact.
 3. Generate the PDF file via `File / Download As / pdf ` to the `assignment1` directory. (In case the written jupyter notebook can not be shown in github)
-4. Commit the pdf file and the jupyter notebook (with all log in it) to the solution branch of your forked repo.
-5. Send the link of the fullfilled jupyter notebook AND the link to the generated pdf file in your github repo to email: cuhkrlcourse@googlegroups.com with title in pattern `"IERG5350-hw1-{name}-{id}-2020fall".format(name="john", id="123456")` for instance: `IERG5350-hw1-john-123456-2020fall` We will NOT reply you a recipt email.
+4. Zip and upload your solution to arbitrary cloud storage and create permanent and accessible link.
+5. Send the source code link AND the PDF file in your github repo to email: cuhkrlcourse@googlegroups.com with title in pattern `"2020fall-IERG5350-hw1-{name}-{id}".format(name="john", id="123456")` for instance: `2020fall-IERG5350-hw1-john-123456` We will NOT reply you a recipt email.
 
 
 
